@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1280" height="280" src="https://r2.fivemanage.com/yoeb9HMmHVJnJwqkWU54M/Static/discord_banner_loading.png">
+  <img width="1280" height="280" src="https://i.postimg.cc/XJ3fGh6g/fivem-connection-banner.png">
 </p>
 
 ## Project Universe
