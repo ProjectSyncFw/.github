@@ -1,71 +1,92 @@
 <p align="center">
-  <img width="1280" height="512" src="https://i.postimg.cc/90vVP511/cover1.png">
+  <img width="1983" height="793" src="https://i.postimg.cc/8CqqnBLV/cover3.png">
 </p>
 
-# Sync Labs
+# Project Sync FW
 
-**FiveM Development • Frameworks • Scripts • Systems**
+**A modern FiveM framework built for serious roleplay servers.**
 
-Sync Labs is a development-focused organization built around creating, maintaining, and improving **FiveM resources, frameworks, and server systems**.
+Project Sync FW is a custom **FiveM framework and server development ecosystem** focused on providing the core systems, infrastructure, and tools required to build and operate a modern roleplay server.
 
-Originally developed through the **Universe Roleplay** project, Sync Labs is now the home for the development work, systems, and projects that continue beyond the server itself.
+The project is designed around **performance, scalability, maintainability, and flexibility**, giving developers the freedom to build their server without being restricted by unnecessary framework limitations.
 
-Universe RP may no longer operate as a live server, but its codebase, systems, and development work are **actively maintained and continue to evolve** under Sync Labs.
+## ⚡ Features
 
-## 🛠️ What We Build
+* 🧩 Modular Framework Architecture
+* 🚀 Performance-focused Systems
+* 🎮 Advanced Roleplay Features
+* 🖥️ Modern NUI & UI Components
+* 💾 Database & Persistent Data Systems
+* 🔐 Server-side Security & Validation
+* 👥 Player & Character Management
+* 💼 Jobs, Businesses & Factions
+* 💰 Economy & Progression Systems
+* 🔧 Developer-focused APIs & Exports
+* 📦 Modular Resource Structure
+* 🌐 OneSync-ready Architecture
 
-Our work focuses on building reliable and scalable resources for the FiveM ecosystem, including:
+## 🏗️ Development Philosophy
 
-* ⚙️ Custom Frameworks & Core Systems
-* 🎮 FiveM Scripts & Resources
-* 🖥️ NUI & UI Systems
-* 🔧 Server Infrastructure & Development Tools
-* 🧩 Gameplay & Roleplay Systems
-* 🚓 Job, Faction & Economy Systems
-* 🔐 Security & Server-Side Systems
-* 🚀 Performance & Optimization
+Project Sync FW is built with a simple idea:
 
-## 🌌 From Universe RP to Sync Labs
+> **The framework should support the server — not define it.**
 
-Sync Labs is a continuation of the development work started during **Universe Roleplay**.
+Systems are designed to remain modular, configurable, and replaceable wherever possible. This allows individual resources to evolve without forcing the entire framework to evolve with them.
 
-While Universe RP has been closed as a live server, the work behind it has not been abandoned. Existing systems are still maintained, improved, refactored, and used as a foundation for future development.
+Our priorities are:
 
-Some projects may continue under completely new names or directions, while others may remain closely connected to their original Universe implementation.
+**Performance → Stability → Security → Maintainability → Flexibility**
 
-The goal is simple:
+## 📦 Ecosystem
 
-> **Keep building, keep improving, and keep the work alive.**
+Project Sync FW is more than a single resource.
 
-## 📋 Development Transparency
+The ecosystem is designed to provide a complete foundation for FiveM development, including:
 
-We believe development should be visible.
+```text
+Project Sync FW
+├── Core
+├── Player Systems
+├── Character Systems
+├── UI / NUI
+├── Inventory
+├── Jobs & Businesses
+├── Economy
+├── Factions
+├── Security
+├── Utilities
+└── Developer APIs
+```
 
-Our projects are actively maintained through Git, and development activity will be documented throughout the organization.
+Individual systems can be developed independently while maintaining a consistent framework architecture.
 
-Depending on the project, you may find:
+## 🛠️ Development
 
-* Development history
-* Commit activity
-* Feature previews
-* Changelogs
-* System showcases
-* Technical documentation
-* Development experiments
+Project Sync FW is actively developed and continuously improved.
 
-Not every project or repository is publicly available, but the work continues regardless of its visibility.
+Development includes:
 
-## 🔮 What's Next?
+* New framework features
+* Performance improvements
+* System refactoring
+* Security enhancements
+* API improvements
+* Bug fixes
+* New resources
+* Developer tooling
+* Experimental systems
 
-Sync Labs is not tied to a single server.
+Development progress and changes are tracked through Git.
 
-We're building an environment where ideas, systems, and technologies developed through FiveM projects can continue to evolve independently.
+## 🎯 Goal
 
-And if the community ever decides that **Universe Roleplay should return**, the foundation and development work will still be there.
+The goal of Project Sync FW is to provide a **clean, scalable, and developer-friendly foundation for FiveM servers** without sacrificing performance or flexibility.
+
+Whether you're building a small private server or a large-scale roleplay environment, Project Sync FW is designed to give developers the foundation they need to build their own experience.
 
 ---
 
 <p align="center">
-  <strong>Sync Labs</strong><br>
-  Building FiveM systems beyond the server.
+  <strong>Project Sync FW</strong><br>
+  FiveM Framework • Server Infrastructure • Roleplay Systems
 </p>
