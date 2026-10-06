@@ -40,24 +40,6 @@ Our priorities are:
 ## 📦 Ecosystem
 
 Project Sync FW is more than a single resource.
-
-The ecosystem is designed to provide a complete foundation for FiveM development, including:
-
-```text
-Project Sync FW
-├── Core
-├── Player Systems
-├── Character Systems
-├── UI / NUI
-├── Inventory
-├── Jobs & Businesses
-├── Economy
-├── Factions
-├── Security
-├── Utilities
-└── Developer APIs
-```
-
 Individual systems can be developed independently while maintaining a consistent framework architecture.
 
 ## 🛠️ Development
