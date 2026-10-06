@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1280" height="280" src="https://i.postimg.cc/XJ3fGh6g/fivem-connection-banner.png">
+  <img width="1280" height="280" src="https://i.postimg.cc/90vVP511/cover1.png">
 </p>
 
 ## Project Universe
