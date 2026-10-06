@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1280" height="280" src="https://i.postimg.cc/90vVP511/cover1.png">
+  <img width="1280" height="512" src="https://i.postimg.cc/90vVP511/cover1.png">
 </p>
 
 ## Project Universe
